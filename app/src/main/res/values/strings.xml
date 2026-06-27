@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Linuxify</string>
+    <string name="connect">Connect to Linux</string>
+    <string name="disconnect">Disconnect</string>
+</resources>

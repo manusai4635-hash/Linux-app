@@ -1,0 +1,1 @@
+<resources><style name="Theme.Linuxify" parent="Theme.MaterialComponents.DayNight.NoActionBar"><item name="colorPrimary">@color/linux_green</item><item name="android:fontFamily">sans</item></style></resources>
